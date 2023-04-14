@@ -1,3 +1,4 @@
-Curso de Java Básico de Argentina Programa
+Curso de Java Básico 2023
+Argentina Programa
 dictado por UTN.
 Repositorio para cargar ejercicios.
